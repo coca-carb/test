@@ -1,4 +1,4 @@
-#将本地的test.py文件上传到远程（Github）仓库
+#将本地的test.py文件同步到远程（Github）仓库
 一. 首先克隆远程仓库到本地仓库
 git clone 远程仓库地址链接
 
